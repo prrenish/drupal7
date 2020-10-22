@@ -1,0 +1,10 @@
+{
+    "name": "root/drupal7",
+    "authors": [
+        {
+            "name": "Renish",
+            "email": "prrenish@gmail.com"
+        }
+    ],
+    "require": {}
+}
